@@ -1,2 +1,2 @@
-# goit-js-hw-02
-Js
+# JavaScript
+- Home Work2
